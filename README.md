@@ -15,7 +15,7 @@
 ## 使用
 **启用模块后正常点击导入 - 导入课表 - 选择导入方式**
 
-![1](./img/1.jpg)
+![1](https://raw.githubusercontent.com/Xposed-Modules-Repo/me.padi.xiaoai/master/img/1.jpg)
 
 **导入完成后，课表会同步至超级小爱内置的小爱课表中，切换课表即可**  
 ## 反馈与适配申请
