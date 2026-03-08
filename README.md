@@ -1,4 +1,5 @@
 # 小爱课程表导入
+![xiaoai](https://raw.githubusercontent.com/Xposed-Modules-Repo/me.padi.xiaoai/master/img/xiaoai.png)
 
 恢复小爱课程表的导入功能，可选择AI解析/适配仓库/其他课表软件等导入至小爱课程表  
 
